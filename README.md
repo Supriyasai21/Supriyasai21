@@ -1,4 +1,4 @@
-hi<h2 align="left">Hi 👋! My name is Supriya.... and I'm a Backend Developer .....from India...</h2>
+hi<h2 align="left">Hi 👋! My name is Supriya.... and I'm a Backend Developer .....from India....</h2>
 
 ###
 
